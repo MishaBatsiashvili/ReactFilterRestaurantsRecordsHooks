@@ -7,4 +7,5 @@
 4.Restaurant Records' JSON data is stored on github in a different repo and is being fetched using Axios.
 
 Demo is hosted here: https://mishabatsiashvili.github.io/ReactFilterRestaurantsRecordsHooks/
+
 JSON data can be viewed at: https://raw.githubusercontent.com/MishaBatsiashvili/myJsonPlaceholder/master/db.js
