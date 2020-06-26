@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ReactFilterRestaurantsRecordsHooks/static/css/main.66c12adf.chunk.css",
+    "main.js": "/ReactFilterRestaurantsRecordsHooks/static/js/main.86ea6daf.chunk.js",
+    "main.js.map": "/ReactFilterRestaurantsRecordsHooks/static/js/main.86ea6daf.chunk.js.map",
+    "runtime-main.js": "/ReactFilterRestaurantsRecordsHooks/static/js/runtime-main.80cd8802.js",
+    "runtime-main.js.map": "/ReactFilterRestaurantsRecordsHooks/static/js/runtime-main.80cd8802.js.map",
+    "static/js/2.c1010436.chunk.js": "/ReactFilterRestaurantsRecordsHooks/static/js/2.c1010436.chunk.js",
+    "static/js/2.c1010436.chunk.js.map": "/ReactFilterRestaurantsRecordsHooks/static/js/2.c1010436.chunk.js.map",
+    "index.html": "/ReactFilterRestaurantsRecordsHooks/index.html",
+    "precache-manifest.741ee71a6cb19e498edc26b1e6f2d211.js": "/ReactFilterRestaurantsRecordsHooks/precache-manifest.741ee71a6cb19e498edc26b1e6f2d211.js",
+    "service-worker.js": "/ReactFilterRestaurantsRecordsHooks/service-worker.js",
+    "static/css/main.66c12adf.chunk.css.map": "/ReactFilterRestaurantsRecordsHooks/static/css/main.66c12adf.chunk.css.map",
+    "static/js/2.c1010436.chunk.js.LICENSE.txt": "/ReactFilterRestaurantsRecordsHooks/static/js/2.c1010436.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ReactFilterRestaurantsRecordsHooks/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80cd8802.js",
+    "static/js/2.c1010436.chunk.js",
+    "static/css/main.66c12adf.chunk.css",
+    "static/js/main.86ea6daf.chunk.js"
+  ]
+}
