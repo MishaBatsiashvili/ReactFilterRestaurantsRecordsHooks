@@ -8,4 +8,4 @@ React mini project created to showcase sorting and filtering of Restaurant recor
 
 Demo is hosted here: https://mishabatsiashvili.github.io/ReactFilterRestaurantsRecordsHooks/
 
-JSON data can be viewed at: https://raw.githubusercontent.com/MishaBatsiashvili/myJsonPlaceholder/master/db.js
+JSON data can be viewed at: https://raw.githubusercontent.com/MishaBatsiashvili/myJsonPlaceholder/master/db.json
